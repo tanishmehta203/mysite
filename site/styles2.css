@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+
+}
+body {
+  background-color: #E4F9F5;
+}
+.img{
+  width:60%;
+  align-content:center;
+  padding-top: 60px;
+}
+.Digital {
+  text-align: center;
+  padding-top: 60px;
+}
+
+hr {
+  border: dotted #66BFBF 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
